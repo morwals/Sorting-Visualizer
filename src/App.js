@@ -7,6 +7,12 @@ export default function App() {
 
     return (
         <>
+         <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
         <Visualizer></Visualizer>
         </>
     )

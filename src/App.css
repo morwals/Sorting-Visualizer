@@ -15,7 +15,27 @@
   display: inline-block;
   margin-left:40px ;
 }
+
+.xyz{
+  text-align: center;
+  justify-content: space-between;
+  background-color: aliceblue;
+  width: 50%;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h1{
+  font-size: 40px;
+  color: white;
+  width: fit-content;
+  margin: auto;
+  padding-top: 10px;
+}
+
 button{
+  margin-top: 50px;
   font-size: larger;
   background-color: black;
   border:none;
